@@ -2,7 +2,6 @@
 
 自带内核的极简安卓浏览器：**GeckoView（Mozilla Firefox 引擎）**，不依赖系统 WebView，
 因此在缺少/老旧 WebView 的手表上也能正常渲染网页。手机、手表一套代码两种界面。
-启动器图标来自根目录 `icon.jpg`（圆角/圆形遮罩版由 `icon_gen.py` 生成）。
 
 ## 功能
 
